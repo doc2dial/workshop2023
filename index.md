@@ -169,7 +169,7 @@ institution="IBM Research AI"
 
 {% include committee-member.html
 name="Haiyang Yu"
-picture=./assets/images/organizers/haiyang_yu.jpg""
+picture=./assets/images/organizers/haiyang_yu.jpg"
 site=""
 institution="DAMO Academy, Alibaba Group"
 %}
@@ -188,6 +188,19 @@ site="https://yubowen-ph.github.io/"
 institution="DAMO Academy, Alibaba Group" 
 %}
 
+{% include committee-member.html 
+name="Haomin Fu" 
+picture="./assets/images/organizers/fuhaomin.jpg" 
+site="" 
+institution="State Key Laboratory for Novel Software Technology, Nanjing University" 
+%}
+
+{% include committee-member.html 
+name="Yeqin Zhang"
+picture="./assets/images/organizers/zhangyeqin.jpg" 
+site="" 
+institution="State Key Laboratory for Novel Software Technology, Nanjing University" 
+%}
 ### Program Committee
 
 TBA
