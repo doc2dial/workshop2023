@@ -106,6 +106,13 @@ institution="The University of Texas at Austin"
 %}
 
 {% include committee-member.html
+name="Hannaneh Hajishirzi"
+picture="./assets/images/speakers/hannaneh_hajishirzi.jpg"
+site="https://homes.cs.washington.edu/~hannaneh/"
+institution="University of Washington"
+%}
+
+{% include committee-member.html
 name="Xiang Ren"
 picture="./assets/images/speakers/xiang_ren.jpg"
 site="https://shanzhenren.github.io/"
