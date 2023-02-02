@@ -32,7 +32,7 @@ Topics of interests include but not limited to
 - Interpretability and faithfulness in dialogue modeling;
 - Dialogue summarization and query-based summarization.
 
-## Calls
+## Call for Papers
 
 We welcome submissions of original work as long or short papers, as well as non-archival papers. We also accept paper
 submissions via ARR. All accepted papers will be presented at the workshop.
