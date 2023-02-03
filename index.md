@@ -16,10 +16,10 @@ Given the vast amount of content created every day in various mediums, it is a m
 to make such content _accessible_ to end users via various conversational interfaces but also to make sure the responses
 provided by the models are _grounded_ and _faithful_ with respect to the knowledge sources. 
 
-**Special Theme** For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual incon-sistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue.
+***Special Theme*** For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual incon-sistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue.
 
 
-**Shared Task** We also host a shared task on grounded dialogue based on multilingual documents, which aims to extend the current advances to languages other than English.
+***Shared Task*** We also host a shared task on grounded dialogue based on multilingual documents, which aims to extend the current advances to languages other than English.
 
 Topics of interests include but not limited to
 
@@ -57,20 +57,17 @@ Authors are responsible for anonymizing their submissions.
 
 ### Important Dates
 
-- For regular workshop paper submissions (regular/non-archival long/short tracks)
-    - Paper Due Date: April 24, 2023
-- For paper submissions with ARR reviews
-    - Paper Due Date: TBD
-- For technical paper submissions (Shared Task track)
-    - Paper Due Date: April 24, 2023
+- Direct paper submissions: April 24, 2023
+- Paper submissions with ARR reviews: TBD
 - Notification of Acceptance: May 22, 2023
-- Camera-ready Paper Due Date: June 6, 2023
+- Camera-ready Paper Due Date: May 30, 2023
 - Pre-recorded video due: June 12, 2023
 - Workshop Date: July 13 or 14, 2023
 
+
 ## Shared Task
 
-### Task1 Mixed-lingual DGDS
+### Task1 Mixed-lingual Document-grounded Dialogue
 
 We will provide annotated data in English, Chinese, French, and Vietnamese for training; and then evaluate models in all
 four languages.
@@ -78,7 +75,7 @@ four languages.
 Training: document set contains 4 languages and we have sample conversations grounded on documents of 4 languages.
 Testing: testing conversations in 4 languages which contain evidences in documents of 4 languages
 
-### Task2 Cross-lingual DGDS
+### Task2 Cross-lingual Document-grounded Dialogue
 
 We will provide sizable annotated data in a source language (e.g. English) and limited data in the target language for
 training; then evaluate the models in the target language for the settings such as English-to-Chinese and
