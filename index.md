@@ -11,17 +11,17 @@ toc_sticky: true
 
 Welcome to the Third DialDoc Workshop co-located with [ACL 2023](https://2023.aclweb.org).
 
-DialDoc workshop focuses on Document-Grounded Dialogue and Conversational Question Answering.
+The DialDoc workshop focuses on Document-Grounded Dialogue and Conversational Question Answering.
 Given the vast amount of content created every day in various mediums, it is a meaningful yet challenging task not only
-to make such content _accessible_ to end users via various conversational interfaces but also to make sure the responses
+to make such content _accessible_ to end users via various conversational interfaces, but also to make sure the responses
 provided by the models are _grounded_ and _faithful_ with respect to the knowledge sources. 
 
-***Special Theme*** For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual incon-sistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue.
+***Special Theme*** For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual inconsistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue, including, but not limited to, automatic evaluation methods, human evaluation, modeling techniques and datasets.
 
 
 ***Shared Task*** We also host a shared task on grounded dialogue based on multilingual documents, which aims to extend the current advances to languages other than English.
 
-Topics of interests include but not limited to
+Topics of interests include, but are not limited to:
 
 - Document-grounded dialogue and conversational machine reading;
 - Knowledge-grounded dialogue generation with pre-trained language models;
@@ -34,8 +34,8 @@ Topics of interests include but not limited to
 
 ## Call for Papers
 
-We welcome submissions of original work as long or short papers, as well as non-archival papers. We also accept paper
-submissions via ARR. All accepted papers will be presented at the workshop.
+We welcome submissions of original work as long or short papers, as well as non-archival papers. We also accept papers
+submitted via ARR as either archival or non-archival submissions. All accepted papers will be presented at the workshop.
 
 We will have the Best Paper Award and Best Student Paper Award, which will be announced during the workshop.
 
@@ -48,7 +48,7 @@ should conform to ARR CFP guidelines.
 Non-Archival Submissions:
 The accepted papers can opt to be non-archival.
 
-Stay tuned for more details about submission site.
+The submission site on OpenReview is available [here](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/DialDoc).
 
 ### Review Process
 
@@ -58,7 +58,7 @@ Authors are responsible for anonymizing their submissions.
 ### Important Dates
 
 - Direct paper submissions: April 24, 2023
-- Paper submissions with ARR reviews: TBD
+- Paper submissions with ARR reviews: April 24, 2023
 - Notification of Acceptance: May 22, 2023
 - Camera-ready Paper Due Date: May 30, 2023
 - Pre-recorded video due: June 12, 2023
