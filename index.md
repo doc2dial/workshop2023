@@ -13,13 +13,13 @@ Welcome to the Third DialDoc Workshop co-located with [ACL 2023](https://2023.ac
 
 The DialDoc workshop focuses on Document-Grounded Dialogue and Conversational Question Answering.
 Given the vast amount of content created every day in various mediums, it is a meaningful yet challenging task not only
-to make such content _accessible_ to end users via various conversational interfaces, but also to make sure the responses
-provided by the models are `grounded` and `faithful` with respect to the knowledge sources. 
+to make such content <span style="color:#d65d0e">_accessible_</span> to end users via various conversational interfaces, but also to make sure the responses
+provided by the models are <span style="color:#d65d0e">_grounded_</span> and <span style="color:#d65d0e">_faithful_</span> with respect to the knowledge sources. 
 
-<span style="color:#d65d0e"> ***Special Theme*** </span> For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual inconsistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue, including, but not limited to, automatic evaluation methods, human evaluation, modeling techniques and datasets.
+<span style="color:#d65d0e"> ***Special Theme*** </span> For our third workshop, we would like to highlight the theme of <span style="color:#d65d0e">**_Factual Consistency_**</span>. With recent advances of large language models, a major issue may arise when systems generate responses that include factual inconsistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue, including, but not limited to, automatic evaluation methods, human evaluation, modeling techniques and datasets.
 
 
-***Shared Task*** We also host a shared task on grounded dialogue based on multilingual documents, which aims to extend the current advances to languages other than English.
+<span style="color:#d65d0e">***Shared Task*** </span> We also host a shared task on grounded dialogue based on multilingual documents, which aims to extend the current advances to languages other than English.
 
 Topics of interests include, but are not limited to:
 
