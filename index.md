@@ -14,7 +14,7 @@ Welcome to the Third DialDoc Workshop co-located with [ACL 2023](https://2023.ac
 The DialDoc workshop focuses on Document-Grounded Dialogue and Conversational Question Answering.
 Given the vast amount of content created every day in various mediums, it is a meaningful yet challenging task not only
 to make such content _accessible_ to end users via various conversational interfaces, but also to make sure the responses
-provided by the models are _grounded_ and _faithful_ with respect to the knowledge sources. 
+provided by the models are `grounded` and `faithful` with respect to the knowledge sources. 
 
 ***Special Theme*** For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual inconsistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue, including, but not limited to, automatic evaluation methods, human evaluation, modeling techniques and datasets.
 
