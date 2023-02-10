@@ -16,7 +16,7 @@ Given the vast amount of content created every day in various mediums, it is a m
 to make such content _accessible_ to end users via various conversational interfaces, but also to make sure the responses
 provided by the models are `grounded` and `faithful` with respect to the knowledge sources. 
 
-***Special Theme*** For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual inconsistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue, including, but not limited to, automatic evaluation methods, human evaluation, modeling techniques and datasets.
+<span style="color:#d65d0e"> ***Special Theme*** </span> For our third workshop, we would like to highlight the theme of **_Factual Consistency_**. With recent advances of large language models, a major issue may arise when systems generate responses that include factual inconsistencies with respect to external sources, creating implications on user trust and safety. We seek submissions that tackle challenges around this issue, including, but not limited to, automatic evaluation methods, human evaluation, modeling techniques and datasets.
 
 
 ***Shared Task*** We also host a shared task on grounded dialogue based on multilingual documents, which aims to extend the current advances to languages other than English.
