@@ -37,7 +37,7 @@ Topics of interests include, but are not limited to:
 We welcome submissions of original work as long or short papers, as well as non-archival papers. We also accept papers
 submitted via ARR as either archival or non-archival submissions. All accepted papers will be presented at the workshop.
 
-We will have the Best Paper Award and Best Student Paper Award, which will be announced during the workshop.
+We will have the <span style="color:#d65d0e">***Best Paper Award***</span> and <span style="color:#d65d0e">***Best Student Paper Award***</span>, which will be announced during the workshop.
 
 ### Submission Instructions
 
