@@ -69,7 +69,9 @@ Authors are responsible for anonymizing their submissions.
 
 
 ### Leaderboard
-The competition is hosted on the Tianchi platform - [leaderboard](https://tianchi.aliyun.com/competition/entrance/532063/information?lang=en-us)!
+The competition is hosted on the Tianchi platform - [Leaderboard](https://tianchi.aliyun.com/competition/entrance/532063/information?lang=en-us)!
+
+Please also join our [Google Group](https://groups.google.com/g/dialdoc) to further communications.
 
 ### Task
 We invite the participants to join us to tackle a challenging Document-grounded Dialogue task in a multilingual setting! In this competition, you will be given a conversational query and a set of domain documents in Vietnamese and French. Your goal is to generate a piece of text that answers the query in the target language. 
