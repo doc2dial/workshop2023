@@ -67,32 +67,35 @@ Authors are responsible for anonymizing their submissions.
 
 ## Shared Task
 
-### Task1 Mixed-lingual Document-grounded Dialogue
 
-We will provide annotated data in English, Chinese, French, and Vietnamese for training; and then evaluate models in all
-four languages.
+### Leaderboard
+The competition is hosted on the Tianchi platform - [leaderboard](https://tianchi.aliyun.com/competition/entrance/532063/information?lang=en-us)!
 
-Training: document set contains 4 languages and we have sample conversations grounded on documents of 4 languages.
-Testing: testing conversations in 4 languages which contain evidences in documents of 4 languages
+### Task
+We invite the participants to join us to tackle a challenging Document-grounded Dialogue task in a multilingual setting! In this competition, you will be given a conversational query and a set of domain documents in Vietnamese and French. Your goal is to generate a piece of text that answers the query in the target language. 
 
-### Task2 Cross-lingual Document-grounded Dialogue
+To assess your performance, we will use the evaluation metrics such as token-level F1, SacreBleu and Rouge-L. You will be scored based on how accurately your generated response matches the ground-truth answer and how well it aligns with the target language. We will provide training data for this task, including 3,446 turns in Vietnamese and 3,510 turns in French. We have also organized the currently available Chinese and English document-grounded dialogue data. We hope that participants can leverage the linguistic similarities, for example, a large number of Vietnamese words are derived from Chinese, and English and French both belong to the Indo-European language family, to improve their models' performance in Vietnamese and French. Please note that no additional human annotated data is allowed. 
 
-We will provide sizable annotated data in a source language (e.g. English) and limited data in the target language for
-training; then evaluate the models in the target language for the settings such as English-to-Chinese and
-Chinese-to-Vietnamese.
+### Baseline
+We have also provided a baseline model, which can be found at https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/acl23doc2dial. 
 
-Training: document set and conversation set with grounding labels in English and/or Chinese.
-Testing: testing conversations in French and/or Vietnamese which contain evidences in documents of 2 source languages (
-English, Chinese)
+### Prizes
+Cash prizes will be awarded to the top-performing participants. The winners will be determined based on their scores on the evaluation metrics. Additionally, we will require all winners to submit a technical paper describing their methods and approaches.
+
+The prize pool is $7000 in total: 
+- 1st Place: $3000; 
+- 2nd Place: $1600; 
+- 3rd Place: $1000; 
+- 4th Place: $800; 
+- 5th Place: $600. 
 
 ### Important Dates
 
 The challenge includes leaderboards for two task settings with two phases, Dev (TestDev) and Test phase,
 
-- Datasets ready & Baseline Models : February 6, 2023
-- Dev Phase Start : February 13, 2023
-- Test Phase Start : March 25, 2023
-- Date of Leaderboard submission：March 31, 2023
+- Training data & Dev data release: February 17, 2023 
+- Test data release: March 25, 2023 
+- Winners announced: April 07, 2023
 - Paper submission: April 24, 2023
 
 ## Invited Speakers
