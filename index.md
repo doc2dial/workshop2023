@@ -7,7 +7,8 @@ toc_sticky: true
 ---
 ***co-located with ACL 2023***
 
-## About
+
+## <img src="./assets/images/dialdoc.png" width="5%">About</img> 
 
 Welcome to the Third DialDoc Workshop co-located with [ACL 2023](https://2023.aclweb.org).
 
