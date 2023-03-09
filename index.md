@@ -61,7 +61,7 @@ Authors are responsible for anonymizing their submissions.
 - Notification of Acceptance: May 22, 2023
 - Camera-ready Paper Due Date: May 30, 2023
 - Pre-recorded video due: June 12, 2023
-- Workshop Date: July 13 or 14, 2023
+- Workshop Date: July 13, 2023
 
 
 ## Shared Task
