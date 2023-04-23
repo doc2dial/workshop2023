@@ -56,8 +56,8 @@ Authors are responsible for anonymizing their submissions.
 
 ### Important Dates
 
-- Direct paper submissions: May 2nd, 2023 ~~(April 24, 2023)
-- Paper submissions with ARR reviews: May 2nd, 2023 ~~(April 24, 2023)
+- Direct paper submissions: May 2nd, 2023 ~~(April 24, 2023)~~
+- Paper submissions with ARR reviews: May 2nd, 2023 ~~(April 24, 2023)~~
 - Notification of Acceptance: May 22, 2023
 - Camera-ready Paper Due Date: May 30, 2023
 - Pre-recorded video due: June 12, 2023
