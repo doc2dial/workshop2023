@@ -97,7 +97,7 @@ The challenge includes leaderboards for two task settings with two phases, Dev (
 - Training data & Dev data release: February 17, 2023 
 - Test data release: March 25, 2023 
 - Winners announced: April 07, 2023
-- Paper submission: April 24, 2023
+- Paper submission: May 2nd, 2023 ~~(April 24, 2023)~~
 
 ## Invited Speakers
 
