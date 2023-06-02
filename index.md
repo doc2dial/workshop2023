@@ -144,7 +144,7 @@ institution="Google Research"
 name="Nouha Dziri"
 picture="./assets/images/organizers/nouha_dziri.jpg"
 site="https://webdocs.cs.ualberta.ca/~dziri/"
-institution="AllenAI"
+institution="Allen Institute for AI"
 %}
 
 {% include committee-member.html
