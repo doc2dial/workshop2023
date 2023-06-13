@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Program"
+    url: /#program
   - title: "Calls"
     url: /#call-for-papers
   - title: "Shared Task"
