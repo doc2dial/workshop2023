@@ -45,10 +45,16 @@ Topics of interests include, but are not limited to:
     - 11:35 - 11:45: Position Matters! Empirical Study of Order Effect in Knowledge-grounded Dialogue
     - 11:45 - 11:55: C-PMI: Conditional Pointwise Mutual Information for Turn-level Dialogue Evaluation
     - 11:55 - 12:25: Shared Task Paper Presentations
+        - Cross-lingual Data Augmentation for Document-grounded Dialog Systems in Low Resource Languages
+        - Enhanced Training Methods for Multiple Languages
+        - SLDT: Sequential Latent Document Transformer for Multilingual Document-based Dialogue
+        - Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
 - 12:30 - 13:30: Lunch break
 - 13:30 - 14:00: Shared Task Results
     - 13:30 - 13:40: Shared Task Overview
     - 13:40 - 14:00: Shared Task Paper Presentations
+        - Exploration of multilingual prompts in document-grounded dialogue
+        - Enhancing Multilingual Document-Grounded Dialogue Using Cascaded Prompt-Based Post-Training Models
 - 14:00 - 14:35: Invited Talk III by Xiang Ren
 - 14:35 - 14:50: Coffee break
 - 14:50 - 16:05: Oral Presentations II
