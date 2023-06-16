@@ -33,13 +33,13 @@ Topics of interests include, but are not limited to:
 
 ## Program
 - 08:55 - 09:00: Opening Remarks
-- 09:00 - 09:35: Invited Talk I by Hannaneh Hajishirz
+- 09:00 - 09:35: Invited Talk I by Hannaneh Hajishirz - "Improved Factual Precision in Long-form Text Generation with Fine-grained Evaluation and Feedback"
 - 09:35 - 10:30: Oral Presentations I
     - 09:35 - 09:55: Follow the Knowledge: Structural Biases and Artefacts in Knowledge Grounded Dialog Datasets
     - 09:55 - 10:15: Revisiting Sentence Union Generation as a Testbed for Text Consolidation
     - 10:15 - 10:30: Graph-Guided Unsupervised Knowledge Identification for Dialogue Agents
 - 10:30 - 10:50: Coffee Break
-- 10:50 - 11:25: Invited Talk II by Rui Yan
+- 10:50 - 11:25: Invited Talk II by Rui Yan - "Recent Progress of Conversational AI in the Open Domain"
 - 11:25 - 12:30: Short Presentations (10 minutes each)
     - 11:25 - 11:35: ConvRGX: Recognition, Generation, and Extraction for Self-trained Conversational Question Answering
     - 11:35 - 11:45: Position Matters! Empirical Study of Order Effect in Knowledge-grounded Dialogue
@@ -53,16 +53,17 @@ Topics of interests include, but are not limited to:
 - 13:30 - 14:00: Shared Task Results
     - 13:30 - 13:40: Shared Task Overview
     - 13:40 - 14:00: Shared Task Paper Presentations
-        - Exploration of multilingual prompts in document-grounded dialogue
+        - Exploration of Multilingual Prompts in Document-grounded Dialogue
         - Enhancing Multilingual Document-Grounded Dialogue Using Cascaded Prompt-Based Post-Training Models
-- 14:00 - 14:35: Invited Talk III by Xiang Ren
+- 14:00 - 14:35: Invited Talk III by Xiang Ren - "Reflex or Reflect: When Do Language Tasks Need Slow Reasoning?
+"
 - 14:35 - 14:50: Coffee break
 - 14:50 - 16:05: Oral Presentations II
     - 14:50 - 15:10: AlignScore: Evaluating Factual Consistency with A Unified Alignment Function 
     - 15:10 - 15:30: A Dialogue System for Assessing Activities of Daily Living: Improving Consistency with Grounded Knowledge 
     - 15:30 - 15:50: Ontologically Faithful Generation of Non-Player Character Dialogues 
     - 15:50 - 16:10: MoQA: Benchmarking Multi-Type Open-Domain Question Answering 
-- 16:10 - 16:45: Invited Talk IV by Greg Durrett
+- 16:10 - 16:45: Invited Talk IV by Greg Durrett - "Assessing LLM Faithfulness: Lessons from Political Fact-checking"
 - 16:45 - 16:50: Closing Remarks
 
 
