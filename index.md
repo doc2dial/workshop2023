@@ -40,7 +40,7 @@ Topics of interests include, but are not limited to:
     - 10:15 - 10:30: Graph-Guided Unsupervised Knowledge Identification for Dialogue Agents
 - 10:30 - 10:50: Coffee Break
 - 10:50 - 11:25: Invited Talk II by Rui Yan - "Recent Progress of Conversational AI in the Open Domain"
-- 11:25 - 12:30: Short Presentations (10 minutes each)
+- 11:25 - 12:30: Short Presentations
     - 11:25 - 11:35: ConvRGX: Recognition, Generation, and Extraction for Self-trained Conversational Question Answering
     - 11:35 - 11:45: Position Matters! Empirical Study of Order Effect in Knowledge-grounded Dialogue
     - 11:45 - 11:55: C-PMI: Conditional Pointwise Mutual Information for Turn-level Dialogue Evaluation
